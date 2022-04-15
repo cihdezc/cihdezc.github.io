@@ -16,8 +16,8 @@ Interests
 ======
 1. Multi-objective optimization
 1. Uncertainty
-1. Set oriented numerics
 1. Evolutionary algorithms
-1. Reinorcement learning
+1. Reinforcement learning
+1. Automatic configuration of algorithms
 
 
