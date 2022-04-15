@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I'm an associate researcher at the department of computer science IIMAS-UNAM.
 
 Interests
