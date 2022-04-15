@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This a short summary of education and work experience. If you need more details, feel free to contact me.
+
 Education
 ======
 * B.S. in Computer system engineering, Intituto Tecnológico de Tepic, 2011
@@ -23,7 +25,7 @@ Work experience
   
 * 2020: Posdoctoral researcher
   * Computer science department
-  * CINVESTAVV-IPN
+  * CINVESTAV-IPN
 
 * 2018-2019: Posdoctoral researcher
   * Engineering department
