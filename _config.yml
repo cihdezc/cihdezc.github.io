@@ -11,9 +11,9 @@ title                    : "Carlos Hernández"
 title_separator          : "-"
 name                     : &name "Carlos Hernández"
 description              : &description "Associate researcher"
-url                      : "https://cihdezc.github.io/"
+url                      : "https://cihdezc.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cihdezc/cihdezc.github.io/"
+repository               : "cihdezc/cihdezc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "carlos-hernandez-castellanos/"
+  linkedin         : "carlos-hernandez-castellanos"
   orcid            : "https://orcid.org/0000-0003-4303-6866"
   pinterest        :
   soundcloud       :
