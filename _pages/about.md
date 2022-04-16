@@ -21,5 +21,6 @@ Interests
 Some interesting links
 ======
 * [IIMAS](https://www.iimas.unam.mx/)
+* [Computer Science Department IIMAS](http://turing.iimas.unam.mx/)
 * [NEO Group](https://neo.cinvestav.mx)
 * [MARE Group](https://turing.iimas.unam.mx/~luis/mare/index.html)
