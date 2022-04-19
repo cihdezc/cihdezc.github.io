@@ -13,6 +13,7 @@ I'm an associate researcher at the department of computer science IIMAS-UNAM. I'
 Interests
 ======
 *  Multi-objective optimization
+*  Evolutionary computation
 *  Optimization under uncertainty
 *  Decision making
 *  Reinforcement learning
