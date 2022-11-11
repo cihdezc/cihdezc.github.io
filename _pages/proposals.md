@@ -2,7 +2,7 @@
 permalink: /
 title: "Thesis proposals"
 excerpt: "Thesis proposals"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /proposals/
   - /proposals.html
