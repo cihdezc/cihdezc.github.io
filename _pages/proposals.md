@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Thesis proposals"
+excerpt: "Thesis proposals"
+author_profile: true
+redirect_from: 
+  - /proposals/
+  - /proposals.html
+---
+
 La vida es acerca tomar decisiones. Tomar decisiones, sin importar si son realizadas por individuos,
 grupos o “computadoras” suelen ser complicadas. Esto se debe, en parte, a que normalmente se
 tienen objetivos que están en conflicto entre ellos (por ejemplo, queremos algo barato, pero de
