@@ -1,8 +1,8 @@
 ---
-permalink: /
+permalink: /proposals
 title: "Thesis proposals"
 excerpt: "Thesis proposals"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /proposals/
   - /proposals.html
