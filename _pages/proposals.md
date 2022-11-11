@@ -1,12 +1,13 @@
 ---
-permalink: /proposals
+layout: archive
 title: "Thesis proposals"
-excerpt: "Thesis proposals"
+permalink: /proposals/
 author_profile: true
-redirect_from: 
-  - /proposals/
-  - /proposals.html
+redirect_from:
+  - /proposals
 ---
+
+{% include base_path %}
 
 La vida es acerca tomar decisiones. Tomar decisiones, sin importar si son realizadas por individuos,
 grupos o “computadoras” suelen ser complicadas. Esto se debe, en parte, a que normalmente se
