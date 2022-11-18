@@ -39,7 +39,7 @@ soluciones que aquellas del estado del arte.
 
 Aplicados
 ===
-* Optimización de portafolios financieros con mmuchos objetivos
+* Optimización de portafolios financieros con muchos objetivos
 * Problema de ruteo multi-objetivo bajo incertidumbre
 * Problemas de calendarización multi-objetivo (tareas, tripulaciones de aviación, calendarización de transporte, etc.)
 * Optimización de rutas para vehículos aereos no tripulados
