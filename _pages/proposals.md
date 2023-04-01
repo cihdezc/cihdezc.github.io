@@ -28,7 +28,7 @@ Algorítmicos
 en el ambiente (por ejemplo, cambios en el ambiente, errores de medición, ruido en los
 sistemas) para obtener soluciones que tengan buena calidad y que tengan utilidad
 práctica.
-* Configuración automática de algoritmos: utilizar técnicas de aprendizaje por refuerzo para
+* Configuración automática de algoritmos: utilizar técnicas de aprendizaje por refuerzo y estadística Bayesiana para
 diseñar algoritmos que selección los “mejores” componentes para resolver problemas de
 optimización por ejemplo problemas de la mochila, viajero, calendarización, etc. (en sus
 versiones multi objetivo y/o con incertidumbre.
