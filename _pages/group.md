@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-The group works on the design, analysis and application of algorithms for multi-objective optimization and reinforcement learning. We are based at the Department of Computer Science, IIMAS-UNAM. The group currently supervises 12 students across BSc, MSc, and PhD levels, and is funded by PAPIIT and Google.
+The OPTImization with Multiple Objectives (OptiMO) group works on the design, analysis and application of algorithms for multi-objective optimization and reinforcement learning. We are based at the Department of Computer Science, IIMAS-UNAM. The group currently supervises 13 students across BSc, MSc, and PhD levels, and is funded by PAPIIT and Google.
 
 Write to carlos.hernandez at iimas.unam.mx if you are interested in joining. Open thesis topics are listed [here](/proposals/).
 
@@ -19,8 +19,9 @@ PhD students
 
 * Rodrigo F. Velázquez Cruz — Robust neural architecture search for multi-objective problems. MSc graduate of the group, December 2024.
 * José Olivas Díaz — Multi-agent multi-objective reinforcement learning via evolutionary algorithms. MSc graduate of the group, August 2025.
-* Iván Alcalá Paz — Kolmogorov-Arnold networks for differential equations.
-* Ricardo D. Fernández Noguez — Preference-based multi-objective reinforcement learning. Co-advised with Ricardo Morales.
+* Iván Alcalá Paz — Kolmogorov-Arnold networks for differential equations. Co-advised with Leonid Serkin.
+* Daniel Alonso Bastos — Policy landscape modelling and navigation in reinforcement learning via graph neural network surrogate models.
+* Ricardo D. Fernández Noguez — Preference-based multi-objective reinforcement learning. Co-advised with Gibran Fuentes.
 
 MSc students
 ------
