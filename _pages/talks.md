@@ -7,37 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Academic Talks and Tutorials
-======
-
-* Tutorial: Use of External Archivers for Multi-objective Optimization. GECCO 2022, Boston, MA, USA. July 2022. (with Oliver Schütze)
-
-* Archivers for single- and multi-objective evolutionary optimization algorithms. GECCO 2022, Boston, MA, USA. July 2022.
-
-* Explicit Multi-objective Model Predictive Control for Nonlinear Systems Under Uncertainty. EURO 2021, July 2021.
-
-* Explicit Multi-objective Model Predictive Control for Nonlinear Systems Under Uncertainty. IFORS 2021, August 2021.
-
-* Optimización de estrategias de manejo para vehículos autónomos mediante algoritmos multi-objetivo bajo incertidumbre. Diálogos IIMAS Ciencia de Datos, UNAM. 2021. [Video](https://www.youtube.com/live/r9H-r4J0BfU?feature=share&t=3097)
-
-* A Decomposition-based EMOA for Set-based Robustness. GECCO 2019, Prague, Czech Republic. July 2019.
-
-* Reference Point Methods for Set-based Robustness by Means of the Hausdorff Distance. EURO 2019, Dublin, Ireland. June 2019.
-
-* A Differential Evolution Reference Point Method for Set-based Robustness by Means of the Averaged Hausdorff Distance. MCDM 2019, Istanbul, Turkey. June 2019.
-
-* Set-oriented methods for multi-objective optimization. Journal Club, Department of Engineering, University of Oxford. 2018.
-
-* Cell mapping methods for multi-objective optimization. NEO 2018, Mexico City, Mexico. 2018.
-
-* Doctoral exam. CINVESTAV-IPN, Mexico City, Mexico. December 2017. [Video 1](https://youtu.be/3SrOPnaEtZI) [Video 2](https://youtu.be/hLzBFnInIoY)
-
-* Barrier Tree for Continuous Landscapes by Means of Generalized Cell Mapping. EVOLVE 2014, Beijing, China. 2014.
-
-* Cell Mapping Techniques for Exploratory Landscape Analysis. EVOLVE 2014, Beijing, China. 2014.
-
-* Computing the Set of Approximate Solutions of a Multi-Objective Optimization Problem by Means of Cell Mapping Techniques. EVOLVE 2013, Leiden, The Netherlands. 2013.
-
 Invited Talks and Outreach
 ======
 
