@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Thesis proposals"
+title: "Thesis Topics"
 permalink: /proposals/
 author_profile: true
 redirect_from:
@@ -9,44 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-La vida es acerca tomar decisiones. Tomar decisiones, sin importar si son realizadas por individuos,
-grupos o “computadoras” suelen ser complicadas. Esto se debe, en parte, a que normalmente se
-tienen objetivos que están en conflicto entre ellos (por ejemplo, queremos algo barato, pero de
-calidad). Otra razón se debe a que puede ser una decisión de muchas por venir (toma de decisión
-secuencial), entonces debemos tomar en cuenta las consecuencias que la decisión puede traer. Si
-esto no fuese suficiente, típicamente estos problemas se encuentran en la clase NP-Hard. Estos
-temas se pueden tratar formalmente mediante optimización multi objetivo y aprendizaje por
-refuerzo.
+Most decisions involve trade-offs. Whether made by individuals, organizations, or automated systems, decisions are hard because objectives conflict, consequences unfold over time, and the environment is uncertain. Multi-objective optimization and reinforcement learning provide the formal tools to address these problems.
 
-Los proyectos que se proponen se enfocan en diseñar algoritmos que permitan a un tomador de
-decisión el conjunto de soluciones de interés. Esto se realiza mediante el uso de técnicas de
-programación matemática y algoritmos evolutivos. Los proyectos se dividen en algorítmicos y aplicados
+The topics below are open for BSc, MSc, and PhD students. All connect to active research lines in the group. If you are interested, write to carlos.hernandez at iimas.unam.mx with a brief description of your background and which direction interests you.
 
-Algorítmicos
-===
-* Optimización bajo incertidumbre: diseñar algoritmos que permitan incluir la incertidumbre
-en el ambiente (por ejemplo, cambios en el ambiente, errores de medición, ruido en los
-sistemas) para obtener soluciones que tengan buena calidad y que tengan utilidad
-práctica.
-* Configuración automática de algoritmos: utilizar técnicas de aprendizaje por refuerzo y estadística Bayesiana para
-diseñar algoritmos que selección los “mejores” componentes para resolver problemas de
-optimización por ejemplo problemas de la mochila, viajero, calendarización, etc. (en sus
-versiones multi objetivo y/o con incertidumbre.
-* Archivos externos para algoritmos evolutivos: diseñar algoritmos que incluyan una
-“memoria” de las mejores soluciones que han encontrado a lo largo de la búsqueda para
-aprender de ellas y guiar la búsqueda de algoritmos evolutivos para obtener mejores
-soluciones que aquellas del estado del arte.
+Algorithmic Topics
+======
 
-Aplicados
-===
-* Optimización de portafolios financieros con muchos objetivos
-* Problema de ruteo multi-objetivo bajo incertidumbre
-* Problemas de calendarización multi-objetivo (tareas, tripulaciones de aviación, calendarización de transporte, etc.)
-* Optimización de rutas para vehículos aereos no tripulados
-* Aprendizaje profundo multi tarea: desarrollo y estudio de métodos multi objetivo para
-diseñar un algoritmo de aprendizaje máquina que pueda realizar múltiples tareas de
-forma simultánea (por ejemplo, reconocer un rostro y su edad).
-* Aprendizaje por refuerzo multi recompensa: desarrollo y estudio de métodos que
-permitan considerar sistemas donde existen múltiples fuentes de recompensa
-(posiblemente en conflicto) para permitir que agentes tomen decisiones y puedan actuar
-en estos ambientes.
+* Multi-objective reinforcement learning. Learning agents that optimize several conflicting objectives simultaneously, producing sets of policies that represent different trade-off solutions.
+
+* Interactive and preference-based optimization. Methods that incorporate human preferences into the search process, allowing decision makers to guide and refine solutions progressively.
+
+* Archivers and set representations for multi-objective algorithms. Design and analysis of strategies that maintain representative solution sets during evolutionary search, with formal convergence properties.
+
+* Optimization under uncertainty. Algorithms that find solutions with good quality and practical utility when the environment is noisy, measurements are imperfect, or parameters vary.
+
+* Automatic algorithm configuration and design. Methods that select and configure algorithmic components for optimization problems, including the use of reinforcement learning for this task.
+
+Applied Topics
+======
+
+* Adaptive decision systems in finance. Multi-objective frameworks for credit, portfolio, and risk decisions that balance profitability, fairness, and transparency.
+
+* Multi-objective optimization for urban mobility and sustainability. Algorithms that support participatory planning processes, integrating community knowledge and nature-based solutions.
+
+* Logistics and operations under uncertainty. Multi-objective methods for routing, scheduling, and resource allocation problems with stochastic elements.

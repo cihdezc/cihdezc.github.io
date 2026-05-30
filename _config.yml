@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carlos Hernández"
 title_separator          : "-"
 name                     : &name "Carlos Hernández"
-description              : &description "Associate researcher"
+description              : &description "Researcher in multi-objective optimization under uncertainty · IIMAS-UNAM"
 url                      : "https://cihdezc.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cihdezc/cihdezc.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Carlos Hernández Castellanos"
   avatar           : "IMG_20190627_123220.jpg"
-  bio              : "Associate Researcher"
-  location         : #"Mexico City"
+  bio              : "Researcher in multi-objective optimization under uncertainty"
+  location         : "Mexico City, Mexico"
   employer         : "IIMAS-UNAM"
   pubmed           : "https://www.scopus.com/authid/detail.uri?authorId=57190253793"
   googlescholar    : "https://scholar.google.com/citations?user=nMMBg2gAAAAJ"
-  email            :
+  email            : "carlos.hernandez at iimas.unam.mx"
   researchgate     : "https://www.researchgate.net/profile/Carlos-Hernandez-Castellanos"
   uri              :
   bitbucket        :

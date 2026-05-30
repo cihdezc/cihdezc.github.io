@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm an associate researcher at the department of computer science IIMAS-UNAM. I'm passionate about decision making and optimization in particular when the process has several conflicting objectives and subject to uncertainties.
+I am a full-time researcher at the Department of Computer Science, IIMAS-UNAM. My work covers the design, analysis and application of algorithms for multi-objective optimization under uncertainty. Problems I work on involve decisions where multiple conflicting objectives must be balanced simultaneously, with applications in logistics, finance, and AI systems.
+
+I also consult on applied optimization problems and speak regularly on AI and decision-making for general audiences.
 
 Interests
 ======
-*  Multi-objective optimization
+*  Multi-objective optimization under uncertainty
 *  Evolutionary computation
-*  Optimization under uncertainty
-*  Decision making
 *  Reinforcement learning
-*  Automatic configuration of algorithms
+*  Decision making
+*  Logistics, finance, and AI applications
+
+Publications
+======
+A full list of publications with citation metrics is available on [Google Scholar](https://scholar.google.com/citations?user=nMMBg2gAAAAJ).
 
 Some interesting links
 ======
@@ -25,4 +30,4 @@ Some interesting links
 * [Computer Science Department IIMAS](http://turing.iimas.unam.mx/)
 * [NEO Group](https://neo.cinvestav.mx)
 * [MARE Group](https://turing.iimas.unam.mx/~luis/mare/index.html)
-* [Propuestas de tesis](https://cihdezc.github.io/proposals)
+* [Thesis topics](https://cihdezc.github.io/proposals)
