@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full CV is available for download [here](/files/CIHC_CV_2604.pdf).
+A full CV is available for download [here](/files/CV_CIHC.pdf).
 
 Education
 ======
