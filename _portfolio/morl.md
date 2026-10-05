@@ -4,6 +4,4 @@ excerpt: "Learning policies that balance multiple conflicting objectives simulta
 collection: portfolio
 ---
 
-Most real decisions involve trade-offs: speed vs. safety, cost vs. quality, efficiency vs. fairness. Multi-objective reinforcement learning (MORL) studies how to train agents that learn to navigate these trade-offs rather than collapse them into a single score. Our work develops algorithmic frameworks that combine evolutionary computation with reinforcement learning to produce sets of policies representing different trade-off solutions, with applications in logistics, finance, and autonomous systems.
-
-Funded by PAPIIT IA102025, UNAM.
+Most real decisions involve trade-offs between goals such as speed and safety, cost and quality, or efficiency and fairness. Multi-objective reinforcement learning (MORL) studies how to train agents that learn to navigate these trade-offs and keep each goal as a separate objective. Our work develops algorithmic frameworks that combine evolutionary computation with reinforcement learning. These frameworks produce sets of policies that represent different trade-off solutions, with applications in logistics, finance, and autonomous systems. The project is funded by PAPIIT IA102025, UNAM.
